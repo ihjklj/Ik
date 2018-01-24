@@ -2,7 +2,6 @@ package com.ihjklj.ik.keepAlive;
 
 import android.content.Context;
 import android.content.Intent;
-
 import com.ihjklj.ik.service.JobShedulerService;
 import com.ihjklj.ik.util.UtilTool;
 
